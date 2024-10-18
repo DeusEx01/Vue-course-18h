@@ -1,0 +1,38 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "02-more": true,
+    "03-how-works": true,
+    "04-components": true,
+    "05-forms": true,
+    "06-http": true,
+    "07-directives": true,
+    "08-router": true,
+    "09-vuex": true,
+    "10-composition": true,
+    "11-ts": true,
+    "12-practice": true,
+    "theme.css": true,
+    "README.md": true
+  },
+  "hide-files.files": [
+    "02-more",
+    "03-how-works",
+    "04-components",
+    "05-forms",
+    "06-http",
+    "07-directives",
+    "08-router",
+    "09-vuex",
+    "10-composition",
+    "11-ts",
+    "12-practice",
+    "theme.css",
+    "README.md"
+  ]
+}
